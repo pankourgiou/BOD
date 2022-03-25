@@ -1,14 +1,14 @@
-import time
+#import time
 
 
-t1 = time.time()
+#t1 = time.time()
 
 
-character = input("Enter character: ")
+#character = input("Enter character: ")
 
-print("ASCII value is: ", ord(character))
+#print("ASCII value is: ", ord(character))
 
 
-t2 = time.time()
-t = t2 - t1
-print("Elapsed time is : ", t, " seconds")
+#t2 = time.time()
+#t = t2 - t1
+#print("Elapsed time is : ", t, " seconds")
